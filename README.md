@@ -4,5 +4,5 @@
 - 🤝 I’m looking to collaborate on open source projects that make an impact. Or pretty much anything else to be honest 
 - 🌐 Languages I speak: JavaScript/TypeScript, Swift, Ruby, Java, C#
 - 📫 How to reach me: **hasan.abdi.ahmed97@gmail.com** || **linkedin.com/hasan-abdul-ahmed** 
-![frame](https://user-images.githubusercontent.com/72423262/116749360-d2355600-a9ce-11eb-8b41-3ed1e475607d.png)
+![resized-image-Promo](https://user-images.githubusercontent.com/72423262/116749523-1163a700-a9cf-11eb-8c28-4038c820874a.jpeg)
 
