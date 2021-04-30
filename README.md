@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning advanced iOS development 📱, building scalable microservices in Java 🤏, React Testing Framework 🧪, Typescript, NextJS 🔥 and more. 
 - 🤝 I’m looking to collaborate on open source projects that make an impact. Or pretty much anything else to be honest 
 - 🌐 Languages I speak: JavaScript/TypeScript, Swift, Ruby, Java, C#
-- 📫 How to reach me: **hasan.abdul.ahmed@gmail.com** || **linkedin.com/hasan-abdul-ahmed** 
+- 📫 How to reach me: **hasan.abdi.ahmed97@gmail.com** || **linkedin.com/hasan-abdul-ahmed** 
 
