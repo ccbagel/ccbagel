@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning advanced iOS development 📱, JamStack 🍓, GatsbyJS, building scalable microservices in Java 🤏🏽, React Testing Framework 🧪, NextJS 🔥, and more. 
 - 🤝 I’m looking to collaborate on open source projects that make an impact. Or pretty much anything else to be honest 🤷🏽‍♂️
 - 🌐 Languages I speak: JavaScript/TypeScript, Swift, Ruby, Java, C#
-- 📫 How to reach me: **hasan.abdi.ahmed97@gmail.com** || **linkedin.com/hasan-abdul-ahmed** 
-![resized-image-Promo (1)](https://user-images.githubusercontent.com/72423262/116749600-2d674880-a9cf-11eb-860f-a902c15c477a.jpeg)
-- 🖥️ View my {LinkedIn} by scanning the QR code 👆🏽👆🏽👆🏽
+- 📫 How to reach me: **hasan.abdi.ahmed97@gmail.com** 
