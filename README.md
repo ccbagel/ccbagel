@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ccbagel. I'm a Fullstack/iOS developer based in Toronto & Calgary. I specialize in proof-of-concepts, prototypes, and UX/UI. However, I'm more passionate about the backend since I'm more of a logical developer and not a designer. I tend to enjoy building out APIs, servers and databases 🏗️
-- 🧰 Tools I currently use are: React & Redux, Ruby on Rails, NodeJS & Express, MongoDB & Firestore, NextJS, Postman, StorybookJS, Figma, CircleCI, Lighthouse, UiKit/MaterialUi, GraphQL, Jest, Docker & AWS.
-- 🌱 I’m currently learning advanced iOS development 📱, JamStack 🍓, GatsbyJS, building scalable microservices in Java 🤏🏽, React Testing Framework 🧪, NextJS 🔥, and more. 
+- 👋 Hi, I’m @ccbagel. I'm a data analyst/software developer. 
+- 🧰 Tools I currently use are: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tableau, React, MongoDB, Express, NodeJS, and NextJS.
+- 🌱 I’m currently learning advanced data analytics using machine learning. 
 - 🤝 I’m looking to collaborate on open source projects that make an impact. Or pretty much anything else to be honest 🤷🏽‍♂️
-- 🌐 Languages I speak: JavaScript/TypeScript, Swift, Ruby, Java, C#
+- 🌐 Languages I speak: JavaScript, Swift, C, Python,  SQL, and some Java, although I mostly use Javascript for React & Python/SQL for data science.
 - 📫 How to reach me: **hasan.abdi.ahmed97@gmail.com** 
