@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ccbagel. I'm a data analyst/software developer. 
-- 🧰 Tools I currently use are: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tableau, React, MongoDB, Express, NodeJS, and NextJS.
+- 👋 Hi, I’m @ccbagel. I'm a data analyst/software developer. I also do cybersecurity as a hobby.
+- 🧰 Tools I currently use are: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tableau, React, MongoDB, Express, NodeJS, NextJS, and more.
 - 🌱 I’m currently learning advanced data analytics using machine learning. 
 - 🤝 I’m looking to collaborate on open source projects that make an impact. Or pretty much anything else to be honest 🤷🏽‍♂️
 - 🌐 Languages I speak: JavaScript, Swift, C, Python,  SQL, and some Java, although I mostly use Javascript for React & Python/SQL for data science.
