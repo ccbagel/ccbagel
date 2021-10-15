@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccbagel. I'm a software developer.
-- 🧰 Tools I currently use are: React, NextJS, MongoDB, NodeJS, Firebase, React Native and a lot more.
-- 🌱 I’m currently learning advanced mobile app development. 
+- 🧰 Tools I currently use are: React, NextJS, MongoDB, NodeJS, Express, and a lot more.
+- 🌱 I want to learn Flutter & React Native next. 
 - 🤝 I’m looking to collaborate on open source projects that make an impact. Or pretty much anything else to be honest 🤷🏽‍♂️
 - 🌐 Languages I speak: JavaScript, Swift, C, Python,  SQL, and some Java, although I mostly use Javascript for React & React Native.
 - 📫 How to reach me: **hasan.abdi.ahmed97@gmail.com** 
