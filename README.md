@@ -3,7 +3,6 @@
   - Performance
   - Accessibility
   - Modularity
-  - Microservices
   - Open source
 - 🧰 Tools I currently use are: React, NextJS, MongoDB, NodeJS, Express, and a lot more.
 - 🌱 I want to learn Flutter & React Native next. 
